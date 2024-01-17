@@ -1,2 +1,3 @@
-# 11-Otp-Generator
-Otp-Generator
+# Project-11-Otp-Generator
+
+using only javascript
